@@ -1,5 +1,8 @@
-# Netflix Clone
 
+# Live Link
+https://netflix-clone-s.netlify.app
+
+# Netflix Clone
 This project is a Netflix clone built using modern web technologies. It includes features for user authentication, movie search, and categorizing movies by genre.
 The goal of this project is to provide a seamless user experience similar to the original Netflix interface.
 
